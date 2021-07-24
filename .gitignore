@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+interview_scalar/node_modules
+server/node_modules
+
